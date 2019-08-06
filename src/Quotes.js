@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const Quotes = props => (
   <figure>
     <img src={props.image} alt={props.character} />
